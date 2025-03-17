@@ -1,4 +1,6 @@
-OrangeHRM_ManualTestingProject
+
+OrangeHRM_Manual Testing Project
+
 
 
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/88915af0-256a-4513-91ad-813eda28be3e" />
