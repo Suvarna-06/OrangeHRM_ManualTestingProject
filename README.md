@@ -80,8 +80,11 @@ Testing Approach & Deliverables
 Key Benefits of This Project
 
 ✔ Real-world experience in manual functional testing
+
 ✔ Comprehensive understanding of STLC phases
+
 ✔ Hands-on practice with test planning, execution, and bug tracking
+
 ✔ Exposure to HRM application workflows
 
 
@@ -92,10 +95,15 @@ Developed in MySQL, PHP and Apache HTTP Servers
 Linux Environment
 
 Two different modules:
+
 Admin Module (Just used by HR Team)
+
 ESS (Employee Self Service) Module used by individual employee
+
 Pre-requisite
+
 You need to login as Admin account then create ESS user account.
+
 ESS user account (Data used)
 
 Username: Admin
