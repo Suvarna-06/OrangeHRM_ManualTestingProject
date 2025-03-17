@@ -60,25 +60,21 @@ Pre-requisites
 🔹 ESS User Credentials for Testing:
 
 
-Username:Admin
+Username: Admin
 Password: admin123
 
 Testing Approach & Deliverables
 🛠️ Testing Tasks & Components
 
-1️⃣ Version History – Logs test case information and relevant comments
+🛠️ Testing Tasks & Components
+
+1️⃣ Test Plan – Defines objectives, scope, approach, and schedule for testing
 
 2️⃣ Test Scenarios – Covers end-to-end functionality for thorough testing
 
 3️⃣ Test Cases – Step-by-step process to validate each scenario
 
-4️⃣ Test Execution – Runs test cases, documenting expected vs. actual results
-
-5️⃣ Bug Reporting – Identifies defects and reports them for resolution
-
-6️⃣ RTM (Requirement Traceability Matrix) – Maps client requirements and test coverage
-
-7️⃣ Decision Table Testing – Evaluates system behavior under varied input conditions
+4️⃣ Decision Table Testing – Evaluates system behavior under varied input conditions
 
 
 Key Benefits of This Project
@@ -113,9 +109,5 @@ Test Scenarios: Describes end to end functionality to be tested
 Test cases: How to test scenarios – steps to follow up
 
 Test Execution: Execute test Cases registering expected results against actual results registering pass/fail
-
-Bug Report: Identifying defects & reporting them to the developer accordingly
-
-RTM (Requirement Traceability Matrix): Capturing all requirements proposed by the client and requirement traceability in a single document
 
 Decision Table: Technique used to test system behavior for different input combinations
