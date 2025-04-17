@@ -3,6 +3,7 @@ OrangeHRM_Manual Testing Project
 
 
 
+
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/88915af0-256a-4513-91ad-813eda28be3e" />
 
 This is a Manual Testing Training, which explain and apply STLC different stages in a functional testing process, it has been tested My Info submodule so it will be used by end users in Orange HRM application. Decision Table is the Technique used to search the effects of combinations of different inputs in uploading components (Photograph , Attachment).
