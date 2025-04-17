@@ -110,6 +110,7 @@ Username: Admin
 Password: admin123
 
 Testing tasks:
+
 Version History: Tab reflecting test case main information and comments
 
 Test Scenarios: Describes end to end functionality to be tested
